@@ -30,6 +30,15 @@ she wants to try. Once she orders and receives her drink, she then adds a
 review for that drink, to help other users pick their wine.
 
 Setting the drinklist:
+Ted is a bar owner who wants to bring in more people. He logs into the system 
+and pulls the trends from the bars in the area. The system notes a high 
+number of Long Island Iced Teas are being ordered on Wednesday at multiple 
+venues. Ted decides he is going to put a special on Long Island Iced Teas for 
+Happy Hour on Wednesday. He navigates over to his bar's page and updates the 
+drink and special list. Ted knows this could put his bar on the map, so he 
+even opts in to some advertising from DrinkUp to promote his new drink 
+special so customers will know that he created a new special.
+
 
 
 
