@@ -1,1 +1,36 @@
-this is a file. that I am writing apparently.
+this is a file. That I am writing apparently. Here is some stuff:
+ZLTHV YGLCY RNFHE RFVAT REVFG NLYBE FJVSG
+
+An instructor first logs in, then selects the option
+to create a test ABC for course 123.  For this test ABC, the instructor
+decides to have 10 problems.  The first problem is a new multiple
+choice problem, the instructor enters it.  For the second problem,
+the instructor decides to reuse an existing problem. So the
+instructor must search the test database to find course 123, then test XYZ,
+choose problem 3, modify it a little, and make it the second problem.
+The instructor proceeds similarly, until all ten problems are created,
+and stores the test ABC in the test database.
+
+Searching for that perfect drink:
+Barney loves to drink scotch and tequila. When he goes out and orders a 
+drink, he first logs in, then he creates a new review for the drink. In 
+the review he adds what drink, where he got it, and a rating for the drink. 
+He can add any additional comments he desires. Once he is satisfied with 
+his review, he submits it. His review then appears on his personal feed, 
+as well as the feed of his friends. Any time he wishes to see his own review,
+he can look at his personal profile and find it.
+
+Trying to find the right drink:
+Rachel loves wine, however, she has just begun delving into the world of wine.
+When she goes out and wants to figure out what wine to order, she pulls up 
+the program and logs in. She can then search the restaurant or bar she's at
+for their winelist and browse through the wines and the reviews other people 
+have posted about the wine. She then uses these reviews to pick which wine 
+she wants to try. Once she orders and receives her drink, she then adds a 
+review for that drink, to help other users pick their wine.
+
+Setting the drinklist:
+
+
+
+ZLTHV YGLCY RNFHE RFVAT REVFG NLYBE FJVSG
